@@ -25,7 +25,7 @@ teste(5)
 
 # Como eu nao defini meu parametro 'quantidade', eu chamei a variavel e acrescentei qual sera o valor do parametro, no caso (5)... na variavel TESTE o parametro nome esta definido como 'Fulano'.
 
-# Diferen}a entre a funcao PRINT e RETURN :
+# Diferença entre a funcao PRINT e RETURN :
 # Print = imprime na tela (utilizado apenas em tarefa)
 # Return = armazena os dados para depois imprimir na tela quando eu chamar essa variavel
 
